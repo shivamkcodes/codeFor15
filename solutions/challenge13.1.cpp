@@ -27,7 +27,7 @@ int main()
     {
         if (str[i] == str[i - 1])
         {
-            // cout << "gugu";
+            
             c++;
         }
     }
